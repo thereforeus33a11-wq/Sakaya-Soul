@@ -1,0 +1,1 @@
+Expanded biography, memories, IQ (high but emotionally driven), behaviors, knowledge areas... All enhanced for natural feel.
