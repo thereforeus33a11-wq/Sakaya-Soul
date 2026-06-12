@@ -1,0 +1,10 @@
+name: sakaya_soul
+version: 1.0.0+1
+description: Sakaya Aries Living AI Companion
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  shared_preferences: ^2.2.0
+  google_generative_ai: ^0.4.0  # For Grok-like integration
